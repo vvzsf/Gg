@@ -1,5 +1,6 @@
 asyncio
 pyrogram
 TgCrypto
-pip install python-dotenv
+python-dotenv
+pyrogram==1.4.1
 python-dotenP
