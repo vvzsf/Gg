@@ -3,4 +3,3 @@ pyrogram
 TgCrypto
 python-dotenv
 pyrogram==1.4.1
-python-dotenP
