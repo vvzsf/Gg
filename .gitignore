@@ -1,0 +1,5 @@
+.env
+*.session
+*.log
+my_bot.session-journal
+config.env
